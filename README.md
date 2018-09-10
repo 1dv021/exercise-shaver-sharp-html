@@ -1,9 +1,13 @@
 # Knivskarp HTML
 
 - A-nivå
-- [GitBook](https://coursepress.gitbooks.io/1dv021/content/ovningsuppgifter/del1/knivskarp-html/)
+- [GitBook](https://coursepress.gitbook.io/1dv021/ovningsuppgifter/del-1/a-niva/knivskarp-html)
+- Lösningsförslag(https://github.com/1dv021/exercise-solution-proposals/tree/master/part-1/shaver-sharp-html)
 
-> __VIKTIGT!__ Innan du börjar arbeta med övningsuppgiften är det viktigt att du följer guiden [Att komma igång med en övningsuppgift](https://coursepress.gitbooks.io/1dv021/content/guider/att-komma-igang-med-en-ovningsuppgift/) för att lägga till övningsuppgiftens repo till ditt repo för övningsuppgifter.
+
+> __VIKTIGT!__ Innan du börjar arbeta med övningsuppgiften är det viktigt att du följer guiden [Att komma igång med en övningsuppgift](https://coursepress.gitbook.io/1dv021/guider/att-komma-igang-med-en-ovningsuppgift) för att lägga till övningsuppgiftens repo till ditt repo för övningsuppgifter.
+
+## Uppgift
 
 Hämta hem övningsuppgiftens repo och lägg till en .gitignore-fil. Denna uppgift ska resultera i en applikation som skapar HTML. Det är dock en enklare variant som bara klarar av att skapa starttag, sluttag och textinnehåll däremellan. Den klarar alltså inte av t.ex. tomma element eller attribut. Tanken är att du i slutändan ska kunna skicka in en array med objekt som instruerar applikationen att skapa HTML-kod i form av en textsträng. Du behöver inte ta hänsyn till så kallade "whitespaces", så som radbrytningar så HTML-strängen blir i ett stycke.
 
@@ -66,7 +70,3 @@ Funktioner, metoder, etc. som _kan_ komma till användning beroende hur du välj
 - [if...else](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
 - [return](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/return)
 - [console.log](https://nodejs.org/api/console.html#console_console_log_data)
-
-## Lösningsförslag
-
-[https://github.com/1dv021/exercise-solution-proposals/tree/master/part-1/shaver-sharp-html](https://github.com/1dv021/exercise-solution-proposals/tree/master/part-1/shaver-sharp-html)
