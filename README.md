@@ -22,7 +22,7 @@ Uppgiften är tänkt att lösas via fyra olika funktioner för att enklare bryta
 Tar en textsträng som parameter och returnerar en textsträng i form av en starttagg.
 
 ```js
-let html = shaverSharp.createBeginTag('1')
+let html = shaverSharp.createBeginTag('h1')
 // html contains '<h1>'
 ```
 
