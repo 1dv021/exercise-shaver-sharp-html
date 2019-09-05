@@ -2,8 +2,7 @@
 
 - A-nivå
 - [GitBook](https://coursepress.gitbook.io/1dv021/ovningsuppgifter/del-1/a-niva/knivskarp-html)
-- Lösningsförslag(https://github.com/1dv021/exercise-solution-proposals/tree/master/part-1/shaver-sharp-html)
-
+- [Lösningsförslag](https://github.com/1dv021/exercise-solution-proposals/tree/master/part-1/shaver-sharp-html)
 
 > __VIKTIGT!__ Innan du börjar arbeta med övningsuppgiften är det viktigt att du följer guiden [Att komma igång med en övningsuppgift](https://coursepress.gitbook.io/1dv021/guider/att-komma-igang-med-en-ovningsuppgift) för att lägga till övningsuppgiftens repo till ditt repo för övningsuppgifter.
 
@@ -38,7 +37,7 @@ let html = shaverSharp.createEndTag('h1')
 ### createElement
 
 Tar två textsträngar som parameter och returnerar en textsträng av ett helt element.
-Här bör man anropa de två tidigare funktionerna för att skapa slutresultatet
+Här bör man anropa de två tidigare funktionerna för att skapa slutresultatet.
 
 ```js
 let html = shaverSharp.createElement('h1', 'This is a headline')
