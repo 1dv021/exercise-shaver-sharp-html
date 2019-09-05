@@ -51,8 +51,8 @@ Tar en array med objekt som parameter och returnerar en textsträng i form av HT
 
 ```js
 let arr = [
-{element: 'h1', innerHTML: 'This is a headline'},
-{elment: 'p', innerHTML: '...and this is a paragraph.'}
+{tagName: 'h1', innerHTML: 'This is a headline'},
+{tagName: 'p', innerHTML: '...and this is a paragraph.'}
 ]
 let html = shaverSharp.createElements(arr)
 // html contains '<h1>This is a headline</h1><p>...and this is a paragraph.</p>'
