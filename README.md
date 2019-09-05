@@ -8,7 +8,7 @@
 
 ## Uppgift
 
-Hämta hem övningsuppgiftens repo och lägg till en .gitignore-fil. Denna uppgift ska resultera i en applikation som skapar HTML. Det är dock en enklare variant som bara klarar av att skapa starttag, sluttag och textinnehåll däremellan. Den klarar alltså inte av t.ex. tomma element eller attribut. Tanken är att du i slutändan ska kunna skicka in en array med objekt som instruerar applikationen att skapa HTML-kod i form av en textsträng. Du behöver inte ta hänsyn till så kallade "whitespaces", så som radbrytningar så HTML-strängen blir i ett stycke.
+Hämta hem övningsuppgiftens repo och lägg till en .gitignore-fil. Denna uppgift ska resultera i en applikation som skapar HTML. Det är dock en enklare variant som bara klarar av att skapa starttagg, sluttagg och textinnehåll däremellan. Den klarar alltså inte av t.ex. tomma element eller attribut. Tanken är att du i slutändan ska kunna skicka in en array med objekt som instruerar applikationen att skapa HTML-kod i form av en textsträng. Du behöver inte ta hänsyn till så kallade "whitespaces", så som radbrytningar så HTML-strängen blir i ett stycke.
 
 Implementera funktionerna enligt anvisningarna.
 
